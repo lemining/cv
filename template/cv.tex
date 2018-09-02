@@ -1,0 +1,29 @@
+%!TEX TS-program = xelatex
+\documentclass[]{template/friggeri-cv}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+$if(fontawesome)$\usepackage{fontawesome}$endif$
+
+\begin{document}
+\header{$author$}{}
+       $if(jobtitle)${$jobtitle$}$endif$
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{about}
+    $if(address)${$address$}$endif$
+    $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$}$endif$
+    $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$$endif$ 
+    $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$}$endif$     $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}$endif$
+  \section{languages}
+    bilingual english/polish
+  \section{programming}
+    C\#
+    Python
+    Lua
+    TypeScript/JavaScript
+\end{aside}
+
+$body$
+
+\end{document}
