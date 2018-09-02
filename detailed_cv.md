@@ -5,7 +5,6 @@ output:
     template: template/cv.tex
   html_document:
     toc: true
-    theme: united
 geometry: margin=1in
 
 title: "CV"
@@ -191,7 +190,7 @@ During that time we have modernized, increased redundancy and performance of rad
 > This CV is available on
 
 > * Source code https://github.com/lemining/cv
-> * PDF https://lemining.github.io/cv/detailed.pdf 
-> * HTML https://lemining.github.io/cv
+> * PDF https://lemining.github.io/cv/detailed_cv.pdf 
+> * HTML - un-themed - https://lemining.github.io/cv
 
 
