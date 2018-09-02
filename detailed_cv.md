@@ -184,4 +184,14 @@ During that time we have modernized, increased redundancy and performance of rad
 > * This CV has been created using R-Markdown and can be outputted onto HTML, Word and PDF.
 > * Data is separated from visuals.
 
+# References
+
+> References available upon request.
+
+> This CV is available on
+
+> * Source code https://github.com/lemining/cv
+> * PDF https://lemining.github.io/cv/detailed.pdf 
+> * HTML https://lemining.github.io/cv
+
 
