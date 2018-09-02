@@ -16,7 +16,13 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
     $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$$endif$ 
     $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$}$endif$     $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}$endif$
   \section{languages}
-    bilingual english/polish
+    $if(languages)${$languages$}$endif$
+  \section{legal}
+    $if(legal)${$legal$}$endif$
+  \section{industries}
+    Media
+    Construction
+    Retail/E-Commerce
   \section{programming}
     C\#
     Python
