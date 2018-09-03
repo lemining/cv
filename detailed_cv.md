@@ -223,6 +223,6 @@ References available upon request.
 This CV is available on
 
 * Source code https://github.com/lemining/cv
-* PDF http://llewandowski.com/detailed_cv.pdf 
+* PDF http://llewandowski.com/detailed_cv.pdf
 * HTML - un-themed - http://llewandowski.com
 * Hosted on GitHub Pages
