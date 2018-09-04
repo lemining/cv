@@ -32,14 +32,16 @@ urlcolor: blue
 # summary
 
 I'm a goal oriented professional with a consistent record of exceeding performance expectations.
+
 Most recently I have been involved in digital transformations of large non-digital businesses to fulfil on their digital strategies resulting in extra revenue streams as well as increasing digital awareness throughout the business.
 
-Those opportunities involved building high performance development and quality assurance teams from the ground up. Introducing processes and educating the business on how to become digital centric.
-I'm a strong believer in a flat management structure with minimal or no title as I believe that every individual brings something to the team regardless of their years of experience.
+These opportunities involved building high performing Development and Quality Assurance teams from the ground up. The work also revolved around introducing processes and educating the business on how to become digital centric.
+
+I’m a strong believer in a flat management structure with minimal or no title, as I understand that every individual brings something to the team - regardless of their years of experience.
 
 I live by "open, honest and transparent" core values as I believe they are fundamental for any team to succeed.
 
-My passion is for building - I spend my free time building software, restoring old motorcycles, renovating or building new furniture.
+My passion is for building - I spend my free time creating software, restoring old motorcycles, renovating or planning and building new furniture.
 
 # employment
 
