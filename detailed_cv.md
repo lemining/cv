@@ -81,18 +81,17 @@ My team has delivered over 16 magazines websites all in a white label platform p
 
 Southern Cross Austereo [SCA] is a successful media company that owns several radio and tv assets across Australia. (2dayFM, TripleM, B105, Southern Cross Ten to name few)
 
-My journey with SCA started in Jun 2013 as a senior developer to work with their external agency who at the time was overseeing SCA digital assets. We have had over 70 radio stations and few TV channel websites.
+My journey with SCA started in June 2013 as a senior developer, working with SCA's external agency who at the time was overseeing the company's digital assets. We have had over 70 radio stations and a few TV channel websites.
 
-It was a successful undertaking as the stability of the websites was dramatically improved, so did the quality and speed to market of our content and we ended up taking everything in-house.
+It was a successful undertaking as the stability of the websites was dramatically improved, as did the quality and the speed to market of our content.
 
 I was running a team of two developers and one devops/infrastructure to keep all of them operational with minimal downtime.
 
-My role has expanded to project management to deliver HbbTV (Hybrid Broadcast Broadband TV) on SCA’s TV assets. Australia was the first country to adopt the 1.5 standard and to roll it out with user in mind through centralized body – Freeview (later product called Freeview+). SCA was also the only regional broadcaster to roll out HbbTV.
+My role was expanded to project management to deliver HbbTV (Hybrid Broadcast Broadband TV) on SCA’s TV assets. Australia was the first country to adopt the 1.5 standard, and to roll it out with the user in mind through centralized body – Freeview (later product called Freeview+). SCA was also the only regional broadcaster to roll out HbbTV.
 
-I also joined technical working group for Freeview to collaborate with all other broadcasters on the technical solutions to various problems.
+I also joined a technical working group for Freeview to collaborate with all other broadcasters on the technical solutions to various problems.
 
-On August 2014, I was promoted to Head of Digital Technology to take over management of all websites, online streaming of radio and HbbTV.
-During that time we have modernized, increased redundancy and performance of radio streams, implemented various APIs to allow for over 70 radio mobile apps to be built and rolled out a new version of all our websites – based on Episerver CMS.
+On August 2014, I was promoted to Head of Digital Technology to take over management of all websites, online streaming of radio and HbbTV. During that time we have modernised, increased redundancy and performance of radio streams, implemented various APIs to allow for over 70 radio mobile apps to be built and rolled out a new version of all our websites – based on Episerver CMS.
 
 ## Software Developer \hfill Amblique, Sydney
 
@@ -100,20 +99,21 @@ During that time we have modernized, increased redundancy and performance of rad
 
 Amblique is Australia’s industry leader in ecommerce and digital consulting, providing omni-channel strategies, retail practice and site optimisation services to help retailers and brand owners. Some of their clients are Michael Hill, Cotton On, Rodd & Gunn.
 
-I have joined Amblique as a full-stack developer in the Client Services team called Geeks. We were responsible for maintenance and support of all our clients. It was a fantastic opportunity as it involved infrastructure, databases, development as well as dealing with the customer to solve their business problems in a cost-efficient manner.
+I have joined Amblique as a full-stack developer in the Client Services team called Geeks. We were responsible for maintenance and support of all our clients. It was a fantastic opportunity as it involved infrastructure, database use, development as well as dealing with the customer to solve their business problems in a cost-efficient manner.
 
-At the time we were using proprietary e-commerce platform that Amblique developed in .NET, however later we have migrated a lot of our clients to DemandWare – which required me to get a certification in EcmaScript/JavaScript.
+At the time we were using a proprietary e-commerce platform that Amblique developed in .NET, however further on we migrated a lot of our clients to DemandWare – which required me to get a certification in EcmaScript/JavaScript.
 
 ## Consultant / Developer / Owner \hfill Lemi Solutions, Sydney
 
 \hfill _2008-06/2013_
 
-* Consulting small to medium size companies on cost effective IT solutions and process improvements.
-* Training staff on those new solutions and processes.
-* Whenever there was a custom solution required (due to lack of offshelf product), I was involved in the full development life cycle of the product.
-* Client support – infrastructure as well as the day to day running of the system (backups, network, emails etc.)
+Consulting small to medium size companies on cost effective IT solutions and process improvements.
 
-Technologies: consulting, process improvement, research and development
+Training staff on those new solutions and processes.
+
+Whenever there was a custom solution required (due to lack of off-shelf product), I was involved in the full development life cycle of the product.
+
+Client support – infrastructure as well as the day to day running of the system (backups, network, emails etc.)
 
 ## Co-Owner \hfill PropertySpy, NZ
 
@@ -137,7 +137,7 @@ During my time at DATACOM I was involved in the creation of an enterprise system
 * Time-sheets
 * Invoicing
 * Progress reports and surveying
-* After the project I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.
+* After the project, I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.
 
 Technologies: ASP.NET, WCF Services, Silverlight, Systems Administration, Sharepoint 2010
 
