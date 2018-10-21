@@ -53,7 +53,7 @@ _Highlights_
 
 * Delivered on time and under budget – 7plus.com.au
 * All platforms are very data rich to help making business and UX decisions.
-* Functional MVP that held up against largest sporting and TV events such as Melbour
+* Functional MVP that held up against largest sporting and TV events such as Melbourne Cup.
 
 Seven is a major Australian commercial free to air television network with the largest market share of viewers in Australia across traditional broadcasters.
 
