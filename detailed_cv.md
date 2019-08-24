@@ -51,7 +51,7 @@ My passion is for building - I spend my free time creating software, restoring o
 
 _Highlights_
 
-* Delivered on time and under budget – 7plus.com.au
+* Delivered on time and under budget – 7plus.com.au - Reached number #1 BVOD product within 12 months.
 * All platforms are very data rich to help making business and UX decisions.
 * Functional MVP that held up against largest sporting and TV events such as Melbourne Cup.
 
@@ -59,7 +59,7 @@ Seven is a major Australian commercial free to air television network with the l
 
 I have been responsible to assembling development and quality assurance department as well as processes to deliver what at the time the largest digital undertaking from Seven – 7plus product.
 
-Currently my department is the largest out of Product and Technology with 20+ individuals working on development of core services (microservices), platforms such as web, iOS, Android, HbbTV, AndroidTV, AppleTV with more platforms being investigated and developed as required.
+Currently my department is the largest out of Product and Technology with 30+ individuals working on development of core services (micro-services), platforms such as web, iOS, Android, HbbTV, AndroidTV, AppleTV with more platforms being investigated and developed as required.
 
 ## Digital Development Director \hfill Pacific Magazines, Sydney
 
@@ -68,6 +68,8 @@ Currently my department is the largest out of Product and Technology with 20+ in
 _Highlights_
 
 * All outsourced platforms were brought and delivered in-house.
+* Delivered a number of e-commerce & content products - new business ventures.
+* Built an engineering team that developed as well as looked after DevOps and Infrastructure for the organisation.
 * Pacific Mags continue to deliver great products based on our original platform.
 
 Pacific Magazines is leading publisher of Australia’s bestselling magazines such as Better Homes & Gardens and nation’s leading fashion brand – Marie Claire.
@@ -131,13 +133,15 @@ http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10782837
 
 \hfill _02/2011-08/2012_
 
-During my time at DATACOM I was involved in the creation of an enterprise system that was used internally for day to day tasks such as;
+My first project was to work on loan application system with a goal for the system to approve/decline a loan application within few seconds.
+My largest project was an enterprise system that was used internally by DATACOM to operate their business. Following modules were built;
 
 * Project management
 * Time-sheets
 * Invoicing
 * Progress reports and surveying
-* After the project, I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.
+
+After the project, I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.
 
 Technologies: ASP.NET, WCF Services, Silverlight, Systems Administration, Sharepoint 2010
 

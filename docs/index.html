@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Luke Lewandowski" />
@@ -70,9 +71,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -86,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -97,22 +95,80 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -122,7 +178,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">CV</h1>
-<h4 class="author"><em>Luke Lewandowski</em></h4>
+<h4 class="author">Luke Lewandowski</h4>
 
 </div>
 
@@ -170,13 +226,13 @@ $(document).ready(function () {
 <p><em>12/2016-Current</em></p>
 <p><em>Highlights</em></p>
 <ul>
-<li>Delivered on time and under budget – 7plus.com.au</li>
+<li>Delivered on time and under budget – 7plus.com.au - Reached number #1 BVOD product within 12 months.</li>
 <li>All platforms are very data rich to help making business and UX decisions.</li>
 <li>Functional MVP that held up against largest sporting and TV events such as Melbourne Cup.</li>
 </ul>
 <p>Seven is a major Australian commercial free to air television network with the largest market share of viewers in Australia across traditional broadcasters.</p>
 <p>I have been responsible to assembling development and quality assurance department as well as processes to deliver what at the time the largest digital undertaking from Seven – 7plus product.</p>
-<p>Currently my department is the largest out of Product and Technology with 20+ individuals working on development of core services (microservices), platforms such as web, iOS, Android, HbbTV, AndroidTV, AppleTV with more platforms being investigated and developed as required.</p>
+<p>Currently my department is the largest out of Product and Technology with 30+ individuals working on development of core services (micro-services), platforms such as web, iOS, Android, HbbTV, AndroidTV, AppleTV with more platforms being investigated and developed as required.</p>
 </div>
 <div id="digital-development-director-pacific-magazines-sydney" class="section level2">
 <h2>Digital Development Director Pacific Magazines, Sydney</h2>
@@ -184,6 +240,8 @@ $(document).ready(function () {
 <p><em>Highlights</em></p>
 <ul>
 <li>All outsourced platforms were brought and delivered in-house.</li>
+<li>Delivered a number of e-commerce &amp; content products - new business ventures.</li>
+<li>Built an engineering team that developed as well as looked after DevOps and Infrastructure for the organisation.</li>
 <li>Pacific Mags continue to deliver great products based on our original platform.</li>
 </ul>
 <p>Pacific Magazines is leading publisher of Australia’s bestselling magazines such as Better Homes &amp; Gardens and nation’s leading fashion brand – Marie Claire. I have joined Pacific Magazines to migrate their digital portfolio away from multiple outsourcing vendors, reconcile and build inhouse development team.</p>
@@ -226,14 +284,14 @@ $(document).ready(function () {
 <div id="software-developer-datacom-nz" class="section level2">
 <h2>Software Developer DATACOM, NZ</h2>
 <p><em>02/2011-08/2012</em></p>
-<p>During my time at DATACOM I was involved in the creation of an enterprise system that was used internally for day to day tasks such as;</p>
+<p>My first project was to work on loan application system with a goal for the system to approve/decline a loan application within few seconds. My largest project was an enterprise system that was used internally by DATACOM to operate their business. Following modules were built;</p>
 <ul>
 <li>Project management</li>
 <li>Time-sheets</li>
 <li>Invoicing</li>
 <li>Progress reports and surveying</li>
-<li>After the project, I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.</li>
 </ul>
+<p>After the project, I was promoted to a Sharepoint Developer. This entailed maintenance and development of the intranet.</p>
 <p>Technologies: ASP.NET, WCF Services, Silverlight, Systems Administration, Sharepoint 2010</p>
 </div>
 <div id="software-developer-centranum-systems-nz" class="section level2">
@@ -340,6 +398,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

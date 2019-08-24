@@ -6,4 +6,4 @@ library('rmarkdown')
 #                                      '.pdf', sep='')))
 
 rmarkdown::render("detailed_cv.md", "all", output_dir = "out")
-
+rmarkdown::render("short_cv.md", "all", output_dir = "out")
